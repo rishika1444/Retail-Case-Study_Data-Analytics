@@ -1,5 +1,4 @@
-This Case Study has been done on the top of python 3.7 by using pandas, numpy, matplotlib and seaborn packages and code has been written on
-Jupyter Notebook.
+This Case Study has been done on the top of python 3.7 by using pandas, numpy, matplotlib and seaborn packages and code has been written on Jupyter Notebook "Pandas Retail Case Study"
 
 The problem of this case study is given below:
 
